@@ -18,5 +18,7 @@
 >7. 電池盒(3號電池 *4)
 
 # 5.架構  
+![uploaded-image](https://github.com/bot132298/IOT/assets/142957874/a11030e4-3586-4d49-b1c9-675749b868e7)
+
 
 
