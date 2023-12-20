@@ -42,6 +42,9 @@
 <img src="https://github.com/bot132298/IOT/assets/142957874/43d05af0-226a-4532-9ed5-c6c4986a0dbf" alt="shooter" width="700"/>  
 3.Pi接線圖(詳見程式碼HomeSecurity.py & Pir_Cam_Upload.py)  
 <img src="https://github.com/bot132298/IOT/assets/142957874/58f04d37-75b0-4ea6-8614-c8af9d483db8" alt="pi" width="700"/>  
+4.LINE畫面  
+<img src="https://github.com/bot132298/IOT/assets/142957874/fdfcb188-e99f-47ff-be96-bed803b1499f" alt="LINE" width="400"/>  
+
 
 # 8.參考資料
 >1.ChatGPT(程式碼主要來源)  
