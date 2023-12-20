@@ -35,6 +35,14 @@
 >Step4.利用ngrok來架server，讓LINE可以控制pi  
 >[ngrok 的設定，來架一個臨時伺服器！](https://askie.today/ngrok-localhost-server-settings/)
 
+# 7.實物照
+1.完整照片  
+<img src="https://github.com/bot132298/IOT/assets/142957874/1742e6bb-61ee-431e-b7d3-3a5e31cb5811" alt="IOT" width="700"/>  
+2.發射器俯視圖  
+<img src="https://github.com/bot132298/IOT/assets/142957874/43d05af0-226a-4532-9ed5-c6c4986a0dbf" alt="shooter" width="700"/>  
+3.Pi接線圖(詳見程式碼HomeSecurity.py & Pir_Cam_Upload.py)  
+<img src="https://github.com/bot132298/IOT/assets/142957874/58f04d37-75b0-4ea6-8614-c8af9d483db8" alt="pi" width="700"/>  
+
 # 8.參考資料
 >1.ChatGPT(程式碼主要來源)  
 >2.LINE Chatbot  
