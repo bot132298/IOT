@@ -21,7 +21,11 @@
 # 5.架構  
 <img src="https://github.com/bot132298/IOT/assets/142957874/a33aaeca-7c80-44cd-a38c-c3a027c69eb8" alt="IOT_架構" width="700"/>
 
-# 6.硬體設計圖  
-<img src="https://github.com/bot132298/IOT/assets/142957874/afe92a61-da33-49b0-ab8b-a1f77b125294" alt="IOT_架構" width="700"/>
+# 6.建置步驟  
+>Step1.建立LINE Official Account及GCP Cloud Function  
+>[LINE 聊天機器人 - 手把手教學，輕鬆學會模仿與互動的功能 on GCP Cloud Functions](https://medium.com/@chiehwen0926/line-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-%E8%BC%95%E9%AC%86%E6%A8%A1%E4%BB%BF%E8%88%87%E4%BA%92%E5%8B%95%E7%9A%84%E7%B5%82%E6%A5%B5%E6%8C%87%E5%8D%97-gcp-cloud-functions-%E6%87%89%E7%94%A8%E5%AF%A6%E4%BE%8B-d4f43db3ca67)  
 
+>Step2.硬體製作  
+><img src="https://github.com/bot132298/IOT/assets/142957874/afe92a61-da33-49b0-ab8b-a1f77b125294" alt="IOT_架構" width="700"/>
 
+>Step3.
