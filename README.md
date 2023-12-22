@@ -44,6 +44,8 @@
 <img src="https://github.com/bot132298/IOT/assets/142957874/58f04d37-75b0-4ea6-8614-c8af9d483db8" alt="pi" width="700"/>  
 4.LINE畫面  
 <img src="https://github.com/bot132298/IOT/assets/142957874/fdfcb188-e99f-47ff-be96-bed803b1499f" alt="LINE" width="400"/>  
+5.發射影片  
+[![YouTube 預覽圖片](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=b9Vw9VESqFI)  
 
 
 # 8.參考資料
