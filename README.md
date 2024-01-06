@@ -19,9 +19,10 @@
 >7. 電池盒(3號電池 *4)
 
 # 5.架構  
-<img src="https://github.com/bot132298/IOT/assets/142957874/a33aaeca-7c80-44cd-a38c-c3a027c69eb8" alt="IOT_架構" width="700"/> 
->溫馨小提示：如果使用LINE Notify會比較簡單，但是變成一個帳號(notify)接收，一個帳號(LINE bot)控制，感覺整合度沒那麼高。
->
+<img src="https://github.com/bot132298/IOT/assets/142957874/a33aaeca-7c80-44cd-a38c-c3a027c69eb8" alt="IOT_架構" width="700"/>  
+  
+**溫馨小提示：如果使用LINE Notify會比較簡單，由一個帳號(notify)接收另一個帳號(LINE bot)控制，但整合性就比較差。
+
 # 6.建置步驟  
 >Step1.建立LINE Official Account及GCP Cloud Functions  
 >[LINE 聊天機器人 - 手把手教學，輕鬆學會模仿與互動的功能 on GCP Cloud Functions](https://medium.com/@chiehwen0926/line-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA-%E8%BC%95%E9%AC%86%E6%A8%A1%E4%BB%BF%E8%88%87%E4%BA%92%E5%8B%95%E7%9A%84%E7%B5%82%E6%A5%B5%E6%8C%87%E5%8D%97-gcp-cloud-functions-%E6%87%89%E7%94%A8%E5%AF%A6%E4%BE%8B-d4f43db3ca67)
