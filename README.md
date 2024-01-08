@@ -58,10 +58,10 @@
 >https://www.youtube.com/watch?v=gtUIb_-7HC4  
 >4.L298N模組教學  
 >https://emmanuel-studios.blogspot.com/2020/02/l298n-rototics-by-sam-arduino-20200205.html  
->5.Ngrok
->https://askie.today/ngrok-localhost-server-settings/
->6.買零件的地方
+>5.Ngrok  
+>https://askie.today/ngrok-localhost-server-settings/  
+>6.買零件的地方  
 >蝦皮-崴翔工藝科技有限公司
->https://shopee.tw/weisiang_lee?categoryId=100632&entryPoint=ShopByPDP&itemId=23630598757&upstream=search
+>https://shopee.tw/weisiang_lee?categoryId=100632&entryPoint=ShopByPDP&itemId=23630598757&upstream=search  
 >蝦皮-樂意創客官方店
 >https://shopee.tw/mirotek
